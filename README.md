@@ -54,6 +54,7 @@ git clone https://github.com/joaomarcosg/Projeto-Sistema-de-Planejamento-Finance
 Inicie o servidor
 
 ```bash
+go mod tidy
 go run main.go
 ```
 
